@@ -1,4 +1,4 @@
-module CarsAssemblyTests
+module Tests.CarsAssemblyTests
 
 open Xunit
 open Lib.CarsAssembly
