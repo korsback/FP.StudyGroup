@@ -18,6 +18,7 @@
     <ItemGroup>
       <Compile Include="CarsAssembly.fs" />
       <Compile Include="LogLevels.fs" />
+      <Compile Include="GuessingGame.fs" />
     </ItemGroup>
 
 </Project>

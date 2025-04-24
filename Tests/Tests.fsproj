@@ -11,6 +11,7 @@
     <ItemGroup>
         <Compile Include="CarsAssemblyTests.fs" />
         <Compile Include="LogLevelTests.fs" />
+        <Compile Include="GuessingGameTests.cs.fs" />
     </ItemGroup>
 
     <ItemGroup>
