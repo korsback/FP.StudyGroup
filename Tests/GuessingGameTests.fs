@@ -1,4 +1,4 @@
-module Tests.GuessingGameTests_cs
+module Tests.GuessingGameTests
 
 open Xunit
 
