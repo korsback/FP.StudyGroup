@@ -35,6 +35,7 @@ let decide : Decide = fun state command ->
     | Decrement when state > 0u -> [Decremented]
     | Decrement when state <= 0u -> []
     | Increment -> [Incremented]
+    | _ -> failwith "Invalid command"
         
 let evolve : Evolve = fun state event ->
     match event with
