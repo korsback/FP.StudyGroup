@@ -22,6 +22,7 @@
       <Compile Include="GuessingGame.fs" />
       <Compile Include="Bandwagoner.fs" />
       <Compile Include="TracksOnTracksOnTracks.fs" />
+      <Compile Include="PizzaPricing.fs" />
     </ItemGroup>
 
 </Project>
