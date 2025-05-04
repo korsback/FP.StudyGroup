@@ -14,6 +14,7 @@
         <Compile Include="GuessingGameTests.fs" />
         <Compile Include="BandwagonerTests.fs" />
         <Compile Include="CounterTests.fs" />
+        <Compile Include="TracksOnTracksTests.fs" />
     </ItemGroup>
 
     <ItemGroup>

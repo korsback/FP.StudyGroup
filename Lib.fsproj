@@ -21,6 +21,7 @@
       <Compile Include="LogLevels.fs" />
       <Compile Include="GuessingGame.fs" />
       <Compile Include="Bandwagoner.fs" />
+      <Compile Include="TracksOnTracksOnTracks.fs" />
     </ItemGroup>
 
 </Project>
