@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Lib", "Lib.fsproj", "{78AEB2D0-FA84-417D-B12F-B9C9F3CF35F9}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Lib", "src\Lib\Lib.fsproj", "{78AEB2D0-FA84-417D-B12F-B9C9F3CF35F9}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Tests", "Tests\Tests.fsproj", "{66F91CEC-898A-4576-A789-FEADBE1A405B}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Tests", "src\Tests\Tests.fsproj", "{66F91CEC-898A-4576-A789-FEADBE1A405B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
