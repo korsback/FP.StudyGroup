@@ -10,7 +10,7 @@ let ``Should calculate price for single pizza`` () =
  
 [<Fact>]
 let ``Should calculate price for single pizza with extra sauce`` () =
-    test <@ pizzaPrice (ExtraSauce Caprese) = 10 @>
+    test <@ pizzaPrice (ExtraSauce (ExtraSauce Caprese)) = 11 @>
     
 [<Fact>]
 let ``Should calculate price for single pizza with extra sauce and extra toppings`` () =
